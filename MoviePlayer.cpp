@@ -1,20 +1,3 @@
-/*****************************************
-** File:    MoviePlayer.cpp
-** Project: CMSC 202 Project 5, Spring 2024
-** Author:  Richard Maliyetu
-** Date:    4/29/24
-** Section: 33
-** E-mail:  r215@gl.umbc.edu 
-** E-mail:  r215@umbc.edu 
-**
-** This file contains the implementation of the MoviePlayer class
-** The class mimics a MoviePlayer object
-** the file contains functions;
-** To add, display movie in playlist
-** To sort playlist etc 
-** more info in the project description.
-***********************************************/
-
 
 #include <iostream>
 #include <vector>
