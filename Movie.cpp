@@ -1,19 +1,3 @@
-/*****************************************
-** File:    Movie.cpp
-** Project: CMSC 202 Project 5, Spring 2024
-** Author:  Richard Maliyetu
-** Date:    4/29/24
-** Section: 33
-** E-mail:  r215@gl.umbc.edu 
-** E-mail:  r215@umbc.edu 
-**
-** This file contains the implementation of the Movie class
-** The class mimics a Movie object
-** the file contains functions;
-** To get movie rating, budget, year etc
-** more info in the project description.
-***********************************************/
-
 
 #include <iostream>
 #include <string>
