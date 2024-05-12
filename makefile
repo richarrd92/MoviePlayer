@@ -23,22 +23,3 @@ val:
 clean: 
 	rm *~
 	rm *.o
-
-##Use this when you want to test just your Queue
-qtest: Queue.o queue_test.cpp
-	$(CXX) $(CXXFLAGS) Queue.o queue_test.cpp -o qtest
-
-runtest:
-	./qtest
-
-##Use this when you want to valgrind your Queue tests
-qtest2:
-	valgrind ./qtest
-
-##Use this when you want to debug your whole project
-debug1:
-	gdb gdbarg1 --args ./proj5 proj5_movies.txt
-
-##Use this when you want to submit your files (from your proj5 directory)
-submit:
-	cp Queue.cpp Movie.h Movie.cpp MoviePlayer.h MoviePlayer.cpp proj5.cpp ~/cs202proj/proj5/extra_credit
