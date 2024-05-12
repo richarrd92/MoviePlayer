@@ -1,16 +1,3 @@
-/*****************************************
-** File:    MoviePlayer.h
-** Project: CMSC 202 Project 5, Spring 2024
-** Author:  Richard Maliyetu
-** Date:    4/29/24
-** Section: 33
-** E-mail:  r215@gl.umbc.edu 
-** E-mail:  r215@umbc.edu 
-**
-** Desc: This file contains the header details for the MoviePlayer class
-**     the MoviePlayer class is manages both queue and movie class
-*****************************************/
-
 
 #ifndef MOVIEPLAYER_H
 #define MOVIEPLAYER_H
