@@ -1,19 +1,3 @@
-/*****************************************
-** File:    Queue.cpp
-** Project: CMSC 202 Project 5, Spring 2024
-** Author:  Richard Maliyetu
-** Date:    4/29/24
-** Section: 33
-** E-mail:  r215@gl.umbc.edu 
-** E-mail:  r215@umbc.edu 
-**
-** This file contains the implementation of the Queue class
-** The class mimics a Queue data structure
-** The file contains functions;
-** To PushBack, PopFront, Clear, GetSize of the Queue etc
-** more info in the project description.
-***********************************************/
-
 
 #ifndef QUEUE_CPP
 #define QUEUE_CPP
