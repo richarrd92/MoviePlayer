@@ -1,9 +1,9 @@
 # Movie Player Project
 
-## Overview
+### Overview
 This project aims to implement a movie player that can build a playlist from thousands of available titles based on a multitude of features.
 
-## Project Structure
+### Project Structure
 This project consists of three main classes:
 
 ### Class 1: Queue
